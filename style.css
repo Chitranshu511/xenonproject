@@ -1,0 +1,12 @@
+.heading {
+    font-weight: 700;
+    align-items: center;
+    padding-left: 500px;
+    color: slategray;
+}
+
+.para {
+    align-items: center;
+    margin-left: 100px;
+    padding-left: 300px;
+}
